@@ -8,7 +8,7 @@ to use:
     var route = new Route();
 
     // Define a routing handler that respons to #foo/1/3.
-    // this holds the router object for that particular match.
+    // 'this' holds the router object for that particular match.
     route.define("#foo/1/3" , function () {
             console.log( 'you got me from foo' , this );
     });
