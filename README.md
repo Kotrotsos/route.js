@@ -19,3 +19,6 @@ to use:
     
     // Router start.
     route.start();
+
+Note: If you need something to parse result from say- a querystring or path, http://medialize.github.com/URI.js/ is a very goo
+URI library.
