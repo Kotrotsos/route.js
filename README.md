@@ -1,7 +1,7 @@
 route.js
 ========
 
-Truly light weight client side router.
+Truly lightweight client side router.
 
 to use:
 
